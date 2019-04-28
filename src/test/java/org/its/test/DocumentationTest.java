@@ -1,7 +1,5 @@
 package org.its.test;
 
-import static org.junit.Assert.*;
-
 import java.io.File;
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
@@ -53,7 +51,7 @@ public class DocumentationTest {
 	@Test
 	public void generateApiAdoc() throws Exception {
 		generateAsciDoc();
-		generatePdf();
+		//generatePdf();
 		generateHtml();
 	}
 

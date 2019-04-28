@@ -1,7 +1,7 @@
 server:
-  port: 7772
+  port: 8080
   servlet:
-    context-path: /spring-boot2
+    context-path: /api
 spring:
   datasource:
     platform: H2

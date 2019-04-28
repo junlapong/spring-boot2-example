@@ -1,5 +1,8 @@
 .classpath
 .project
+.factorypsth
 .settings/*
 .springBeans
 target/*
+
+src/main/resources/asciidoc/api-doc.**
